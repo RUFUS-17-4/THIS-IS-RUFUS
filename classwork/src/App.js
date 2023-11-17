@@ -1,6 +1,8 @@
-import hello from "./hello";
+import React from "react";
+import Hello from "./Hello";
 function App(){
-  return 
-  <hello/>
+  return(
+    <Hello/>
+  )
 }
 export default App;
